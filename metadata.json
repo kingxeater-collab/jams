@@ -1,0 +1,8 @@
+{
+  "name": "ViralStudio AI",
+  "description": "Plataforma completa de criação de vídeos e designs com Inteligência Artificial para conteúdos virais.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
